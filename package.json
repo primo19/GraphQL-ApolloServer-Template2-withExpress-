@@ -1,0 +1,32 @@
+{
+  "name": "graphql-apollo-express-template",
+  "version": "1.0.0",
+  "description": "Template for GraphQL server with Apollo and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primo19/GraphQL-ApolloServer-Template2-withExpress-.git"
+  },
+  "author": "Primo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/primo19/GraphQL-ApolloServer-Template2-withExpress-/issues"
+  },
+  "homepage": "https://github.com/primo19/GraphQL-ApolloServer-Template2-withExpress-#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/node": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.9.14",
+    "express": "^4.17.1",
+    "graphql": "^14.5.8",
+    "mongoose": "^5.8.1"
+  }
+}
